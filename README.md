@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1080823425913864326/1083480409389674526/WAE.png "WAE")
+![](https://cdn.discordapp.com/attachments/838079804485402654/1083481365741305897/wae-header.png)
 ## About us
 ### WAE is a school robotics group formed by 5 well-developed students.
 - Fabrizio Benegas - Head developer 
